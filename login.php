@@ -5,7 +5,7 @@
 	<body>
 
 		<?php
-		// ALGO PARA QUE SE HAGA EL LOGIN
+		// ALGO PARA QUE SE HAGA EL LOGIN , otro comentario
 		?>
 	</body>
 </html>
