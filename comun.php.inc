@@ -1,0 +1,4 @@
+<?php
+
+	// FUNCIONES PHP COMUNES
+?>
